@@ -12,5 +12,6 @@ Cálculo: Potência(W) x Horas x 30dias / 1000
 
 Instruções: Digite o nome do aparelho que será calculado, coloque a potência do aparelho em watts (W) e após isso coloque quantas horas o aparelho fica ligado diariamente
 
-<img width="225" height="144" alt="image" src="https://github.com/user-attachments/assets/b374891f-7fdd-4f3c-8f9d-0876c40df8fa" />
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/3bb6839f-3375-44d2-a397-ba6e64149f19" />
+
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/aadf8351-a48f-4947-aede-085325dfbcc2" />
