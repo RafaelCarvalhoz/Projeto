@@ -1,1 +1,21 @@
+print("--- Calculadora de Consumo de Energia ---")
 
+# 1. Entrada de dados
+aparelho = input("Digite o nome do aparelho: ")
+potencia = float(input(f"Digite a potência do(a) {aparelho} em Watts (W): "))
+horas_dia = float(input(f"Quantas horas por dia o(a) {aparelho} fica ligado(a)? "))
+
+# 2. Processamento (Cálculo em kWh)
+# Fórmula: (Watts * horas * dias) / 1000
+consumo_mensal = (potencia * horas_dia * 30) / 1000
+
+# Dica: Adicionando cálculo de custo (R$ 0,75 por kWh)
+valor_kwh = 0.75
+custo_estimado = consumo_mensal * valor_kwh
+
+# 3. Saída de dados formatada
+print("-" * 30)
+print(f"Aparelho: {aparelho}")
+print(f"Consumo estimado: {consumo_mensal:.2f} kWh/mês")
+print(f"Custo mensal estimado: R$ {custo_estimado:.2f}")
+print("-" * 30)
