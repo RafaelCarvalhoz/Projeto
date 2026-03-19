@@ -3,6 +3,7 @@
 
 Nome:Trabalho Consumo de Energia
 <img width="905" height="700" alt="imagem_2026-03-18_213325580" src="https://github.com/user-attachments/assets/8593882f-a3b9-4d17-8e15-0635becbd1a0" />
+
 O objetivo desse codigo é fazer uma calculadora de consumo elétrico que ajude os usuários a estimar quando um aparelho gasta de energia elêtrica mensalmente.
 
 Linguagem utilzada: Python
